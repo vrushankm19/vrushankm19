@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Basic Knowledge</h2> ⭐
+<h2 align="left">Basic Knowledge</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">My Code Collection</h2>
+<h2 align="left">My Code Collection ⭐</h2>
 
 
 - [Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js)
