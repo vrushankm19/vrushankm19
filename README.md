@@ -59,7 +59,7 @@
 <h2 align="left">My Code Collection ⭐</h2>
 
 
-- ![Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js)
+- [Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js)
 - [SVG ID and Attributes Converter](https://magenta-zabaione-f2fae8.netlify.app/svg-id-and-attributes-converter/index.html)
 - [My React Projects using Vite.js](https://github.com/vrushankm19/React-js-vite-app)
 
