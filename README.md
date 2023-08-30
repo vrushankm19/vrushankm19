@@ -59,12 +59,12 @@
 <h2 align="left">My Code Collection ⭐</h2>
 
 
-- [Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js){:target="_blank"}
-- [SVG ID and Attributes Converter](https://magenta-zabaione-f2fae8.netlify.app/svg-id-and-attributes-converter/index.html){:target="_blank"}
-- [My React Projects using Vite.js](https://github.com/vrushankm19/React-js-vite-app){:target="_blank"}
+- ![Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js)
+- [SVG ID and Attributes Converter](https://magenta-zabaione-f2fae8.netlify.app/svg-id-and-attributes-converter/index.html)
+- [My React Projects using Vite.js](https://github.com/vrushankm19/React-js-vite-app)
 
-- [SCSS Mixin Collection](https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/_mixins.scss){:target="_blank"}
-- [SVG animation in Loop using SCSS](https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/style-component/_svg-fade-in-animation.scss){:target="_blank"}
+- [SCSS Mixin Collection](https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/_mixins.scss)
+- [SVG animation in Loop using SCSS](https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/style-component/_svg-fade-in-animation.scss)
 
 ###
 
