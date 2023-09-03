@@ -57,9 +57,9 @@
 ###
 
 <h2 align="left">My Code Collection ⭐</h2>
-- [Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js){:target="_blank"}
+
 <ul>
-  - [Gulp.js Project Setup](https://github.com/vrushankm19/Gulp.js){:target="_blank"}
+  <li><a href="https://github.com/vrushankm19/Gulp.js" target="_blank" rel="noopener noreferrer">Gulp.js Project Setup</a></li>
   <li><a href="https://magenta-zabaione-f2fae8.netlify.app/svg-id-and-attributes-converter/index.html" target="_blank">SVG ID and Attributes Converter</a></li>
   <li><a href="https://github.com/vrushankm19/React-js-vite-app" target="_blank">My React Projects using Vite.js</a></li>
   <li><a href="https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/_mixins.scss" target="_blank">SCSS Mixin Collection</a></li>
