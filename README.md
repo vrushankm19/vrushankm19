@@ -65,6 +65,7 @@
   <li><a href="https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/_mixins.scss" target="_blank">SCSS Mixin Collection</a></li>
   <li><a href="https://github.com/vrushankm19/Gulp.js/blob/main/app/scss/style-component/_svg-fade-in-animation.scss" target="_blank">SVG animation in Loop using SCSS</a></li>
   <li><a href="https://github.com/vrushankm19/js-collection" target="_blank">JS Collection</a></li>
+  <li><a href="https://vrushankm19.github.io/simpliareps-v2/index.html" target="_blank">I have built this website using VH CSS parameters, so that it appears the same in every resolution like images.</a></li>
 </ul>
 
 ###
