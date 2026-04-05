@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 I'm Vrushank Modi</h1>
 
 <p align="left">
-Frontend / UI Developer with 5+ years of experience in building modern, scalable, and responsive web applications.
-Specialized in React.js, Material UI, Redux, and pixel-perfect UI development.
+Frontend / UI Developer with 5+ years of experience in building modern, scalable, and high-performance web applications.
+Specialized in React.js, Next.js, TypeScript, Redux Toolkit, and pixel-perfect UI development with strong focus on performance and user experience.
 </p>
 
 ---
@@ -10,11 +10,13 @@ Specialized in React.js, Material UI, Redux, and pixel-perfect UI development.
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I am a passionate Frontend Developer with 5+ years of professional experience working across product-based and service-based companies. I specialize in building responsive, high-performance web applications using React.js, JavaScript (ES6+), HTML5, CSS3, and modern UI frameworks.
+I am a passionate Frontend Developer with 5+ years of professional experience working across product-based and service-based companies. I specialize in building responsive, scalable, and high-performance web applications using React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, and modern UI frameworks.
 <br/><br/>
-I have strong hands-on experience converting Figma designs into clean, reusable components, implementing dark/light themes, multi-language support, and creating dashboards that look consistent across all devices using REM, VH, and VW units.
+I have strong hands-on experience in converting Figma designs into clean, reusable, and production-ready components. I focus on building pixel-perfect UI with support for dark/light themes, multi-language applications, and highly optimized dashboards using modern CSS techniques (REM, VH, VW).
 <br/><br/>
-I have worked on enterprise-level projects such as NPAV, NAFIS, M12 Dashboard, Kylas CRM Plugin, Land Global, Natural Remedies, and more. I am comfortable working in Agile/Scrum environments and collaborating with designers, backend teams, and stakeholders.
+My expertise includes state management using Redux Toolkit and Context API, REST API integration, performance optimization, and creating reusable component architectures. I also work with tools like Vite, Gulp, Git, CI/CD, and have experience with WordPress (Elementor) for CMS-based solutions.
+<br/><br/>
+I have worked on enterprise-level projects such as NPAV, NAFIS, M12 Dashboard, Kylas CRM Plugin, Land Global, Natural Remedies, HROne, and Uneecops. I am comfortable working in Agile/Scrum environments and collaborating with cross-functional teams including designers, backend developers, and stakeholders to deliver high-quality products.
 </p>
 
 ---
